@@ -48,9 +48,8 @@ I create 2D and 3D games, experiment with new mechanics, and constantly improve 
 
 | **Project**                                 | **Description**                                                           |
 | ------------------------------------------- | ------------------------------------------------------------------------- |
-| **[Tank Combat 2D](https://github.com/)**   | A top-down tank shooter with AI, physics bullets, health system & scoring |
-| **[Traffic Manager](https://github.com/)**  | A traffic-control puzzle game built for an exam challenge                 |
-| **[Brick Breaker 2D](https://github.com/)** | Completed 2D arcade game made in Unity 6                                  |
+| **[Tank Combat 2D](https://github.com/krishnadas-p/Tanker-Shooting/tree/main)**   | A top-down tank shooter with AI, physics bullets, health system & scoring |
+                               |
 
 ---
 
